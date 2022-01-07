@@ -10,9 +10,8 @@ I was tasked with refactoring the Horiseon webpage, with special consideration f
 
 A fairly basic and intuitive layout, the site is quite simple to navigate. Included are some screen captures to demonstrate the layout of the site.
 
-```md
 ![A screenhot of the navigation bar and landing image](assets/images/nav-bar.png)
-```md
+
 ![A screenhot of the body of the page with all the main content and the sidebar](assets/images/main-block.png)
 
 ## Built With
@@ -24,13 +23,16 @@ A fairly basic and intuitive layout, the site is quite simple to navigate. Inclu
 
 * [See Live Site](https://scottybuoy.github.io/refactoring-demo/)
 
+## Snapshot and Functionality
+
+![A gif demonstrating the websites navigation](https://media.giphy.com/media/mwMhG0oPZz377jGvEl/giphy.gif)
 
 ## Authors
 
 * **Scott Everett** 
 
 - [Link to Github](https://github.com/scottybuoy)
-```
+
 
 
 ## Credits
